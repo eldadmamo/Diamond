@@ -1,6 +1,7 @@
 <?php
+require 'admin_libs.php';
 
-echo 'i love you';
+echo 'you are logged in!';
 
-echo 'Going no Where'
+
 ?>
